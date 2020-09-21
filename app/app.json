@@ -1,0 +1,12 @@
+{
+  "name": "mernauth",
+  "displayName": "mernauth",
+  "expo": {
+    "name": "mernauth",
+    "slug": "mernauth",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
