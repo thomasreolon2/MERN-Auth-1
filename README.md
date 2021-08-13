@@ -51,8 +51,3 @@ expo start
 3. Push to the branch (`git push origin branch`)
 4. Create a new Pull Request
 
-
-## Preview
-
-<img src="https://media.giphy.com/media/B7jTAGjplim7AsVfdN/giphy.gif" width="280" height="500"> <img src="https://media.giphy.com/media/0y0eoIxEvAqFYwKFLD/giphy.gif" width="280" height="500">  <img src="https://media.giphy.com/media/1O3XoCrY9dsaBZBAIg/giphy.gif" width="250" height="500"> 
- <img src="https://media.giphy.com/media/nijlNpLotPcuU514MJ/giphy.gif"> <img src="https://media.giphy.com/media/gWvexCowgnQLhuo8iw/giphy.gif">
